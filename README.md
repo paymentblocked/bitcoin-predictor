@@ -1,6 +1,6 @@
-# bitcoin-predictor
+# bitcoin-forecasting
 
-**Sub-Par Basic Bitcoin Predictor**
+**Entry Level Bitcoin Forecasting using LSTM**
 
 - Collects candle data formatted onto pandas DF. 
 
